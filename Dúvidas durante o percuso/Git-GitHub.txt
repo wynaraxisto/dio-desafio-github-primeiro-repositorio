@@ -1,12 +1,12 @@
-1 -  O que é Git e Git Hub?
+# 1 -  O que é Git e Git Hub?
 
 O Git é um sistema de controle de versão distribuído e amplamente adotado.
 GitHub é uma plataforma para gerenciar seu código e criar um ambiente de colaboração entre devs, utilizando o Git como sistema de controle. Ele vai facilitar o uso do Git, escondendo alguns detalhes mais complicados de setup.
 
-2 = Qual a diferença entre os dois?
+# 2 - Qual a diferença entre os dois?
 
 Git é a ferramenta que Linus criou. Se você quer utilizá-la, pode fazer tudo sozinho e hospedar um repositório principal para ter seu software versionado. Isso pode ser uma tarefa complicada. Algumas empresas, como Github, Bitbucket e Gitlab, já oferecem esse serviço, controlam o acesso dos usuários e oferecem ferramentas extras de gerenciamento de projetos. O Github é uma opção para que você use o Git de maneira mais simples, mas não é obrigatório, apesar de extremamente usado.
 
-REFERENCIA:https://www.alura.com.br/artigos/o-que-e-git-github
-Video explicativo Rafaella Ballerini: https://www.youtube.com/watch?v=DqTITcMq68k
-Site para o dowloand do Git: https://git-scm.com/downloads
+[REFERENCIA](https://www.alura.com.br/artigos/o-que-e-git-github)
+[Video explicativo Rafaella Ballerini](https://www.youtube.com/watch?v=DqTITcMq68k)
+[Site para o dowloand do Git](https://git-scm.com/downloads)
